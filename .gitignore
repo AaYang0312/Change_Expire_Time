@@ -1,0 +1,9 @@
+# Ignore everything by default.
+*
+
+# Keep traversing directories so nested Python files can be tracked.
+!*/
+
+# Track Python source files and this ignore file.
+!*.py
+!.gitignore
