@@ -6,4 +6,5 @@
 
 # Track Python source files and this ignore file.
 !*.py
+!*.md
 !.gitignore
